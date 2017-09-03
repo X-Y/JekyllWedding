@@ -41,3 +41,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# GitHub
+username:            X-Y 
+repo:                JekyllWedding
+branch:              source
+
+# Jekyll source / destination
+source:              .
+destination:         _site
