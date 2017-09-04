@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to weddings!"
 date:   2017-09-03 21:29:43 +0200
 categories: jekyll update
 ---
