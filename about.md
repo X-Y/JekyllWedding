@@ -3,16 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello family and friends! You can find all the information about our Swedish wedding of 2018 here in this site.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+亲友们大家好！这是我们2018年瑞典婚礼的信息网站。
