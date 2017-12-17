@@ -4,21 +4,18 @@ layout: default
 
 <div class="home">
 
-  {{ content }}
-
-  <h1 class="page-heading">Posts</h1>
-  
+  <h1 class="page-heading">About the Wedding | Om bröllopet | 关于婚礼</h1>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for page in site.pages %}
+    {% if site.home-pages contains page.path %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
         </h2>
-        <p>{{ post.content | truncatewords: 30}}</p>
+        <p class="post-brief">{{ page.brief }}</p>
       </li>
+    {% endif %}
     {% endfor %}
   </ul>
 
