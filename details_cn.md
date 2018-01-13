@@ -4,12 +4,13 @@ title: 婚礼事项
 permalink: /hunlishixiang/
 brief: 时间，地点，住宿，以及其它事项
 ---
+![Karin and Xun]({{ "/assets/karinxun.jpg" | absolute_url }})
+
 ### 婚礼 - 
 # **卡琳和洵**
 #### *船岛 2018年5月5日*
 
 ----
-
 ## 事实
 
 ### 时间
@@ -18,9 +19,7 @@ brief: 时间，地点，住宿，以及其它事项
 ### 位置
 婚礼将在 [Skeppsholmen Krogkonst](http://www.krogkonst.se/), Amiralitetsbacken 3, Stockholm
 
-    API key for map: AIzaSyB5eZW9QSTOcMtKgJJsVnQdfUhOyV9_AZ4
-    Map widget code:
-    <script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyB5eZW9QSTOcMtKgJJsVnQdfUhOyV9_AZ4'></script><div style='overflow:hidden;height:400px;width:520px;'><div id='gmap_canvas' style='height:400px;width:520px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://anfahrtsskizze-erstellen.com/'>anfahrtsskizze integrieren</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=f1ad4aa9bc4f01746b134ce3ca1e91731b85a502'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:13,center:new google.maps.LatLng(59.3254943,18.081355099999996),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(59.3254943,18.081355099999996)});infowindow = new google.maps.InfoWindow({content:'<strong>Skeppsholmen Krogkonst</strong><br>Amiralitetsbacken 3<br> Stockholm<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyB5eZW9QSTOcMtKgJJsVnQdfUhOyV9_AZ4'></script><div style='overflow:hidden;height:400px;width:520px;'><div id='gmap_canvas' style='height:400px;width:520px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://anfahrtsskizze-erstellen.com/'>anfahrtsskizze integrieren</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=f1ad4aa9bc4f01746b134ce3ca1e91731b85a502'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:13,center:new google.maps.LatLng(59.3254943,18.081355099999996),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(59.3254943,18.081355099999996)});infowindow = new google.maps.InfoWindow({content:'<strong>Skeppsholmen Krogkonst</strong><br>Amiralitetsbacken 3<br> Stockholm<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 
 最近的地铁站：Kungsträdgården，蓝线，800米的步行路程。
 
@@ -90,8 +89,7 @@ TBD
 
 作为参考，这是斯德哥尔摩去年五月的温度图：
 
-    the graph goes here
-
+![graph of temperature in May]({{ "/assets/image1.png" | absolute_url }})
 
 ### 礼品
 ????

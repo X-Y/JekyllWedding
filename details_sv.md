@@ -2,8 +2,10 @@
 layout: page
 title: Om Bröllopet 
 permalink: /bröllopet/
-brief: Om bröllopet
+brief: Tiden, platser, boende och annan användbar information. 
 ---
+![Karin and Xun]({{ "/assets/karinxun.jpg" | absolute_url }})
+
 ### Bröllop
 # **Karin & Xun**
 #### *Skeppsholmen 2018-05-05*
@@ -18,9 +20,7 @@ Vigseln startar 17:00
 ### Plats
 Bröllopet sker på [Skeppsholmen Krogkonst](http://www.krogkonst.se/), Amiralitetsbacken 3, Stockholm
 
-    API key for map: AIzaSyB5eZW9QSTOcMtKgJJsVnQdfUhOyV9_AZ4
-    Map widget code:
-    <script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyB5eZW9QSTOcMtKgJJsVnQdfUhOyV9_AZ4'></script><div style='overflow:hidden;height:400px;width:520px;'><div id='gmap_canvas' style='height:400px;width:520px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://anfahrtsskizze-erstellen.com/'>anfahrtsskizze integrieren</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=f1ad4aa9bc4f01746b134ce3ca1e91731b85a502'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:13,center:new google.maps.LatLng(59.3254943,18.081355099999996),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(59.3254943,18.081355099999996)});infowindow = new google.maps.InfoWindow({content:'<strong>Skeppsholmen Krogkonst</strong><br>Amiralitetsbacken 3<br> Stockholm<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyB5eZW9QSTOcMtKgJJsVnQdfUhOyV9_AZ4'></script><div style='overflow:hidden;height:400px;width:520px;'><div id='gmap_canvas' style='height:400px;width:520px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://anfahrtsskizze-erstellen.com/'>anfahrtsskizze integrieren</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=f1ad4aa9bc4f01746b134ce3ca1e91731b85a502'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:13,center:new google.maps.LatLng(59.3254943,18.081355099999996),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(59.3254943,18.081355099999996)});infowindow = new google.maps.InfoWindow({content:'<strong>Skeppsholmen Krogkonst</strong><br>Amiralitetsbacken 3<br> Stockholm<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
 
 Närmsta T-banestation: Kungsträdgården, blå linjen, 800 m promenad bort.
 
@@ -90,8 +90,7 @@ Solnedgång: 20:50.
 
 Som referens finns här en graf över temperaturen i Stockholm i maj förra året:
 
-    the graph goes here
-
+![graph of temperature in May]({{ "/assets/image1.png" | absolute_url }})
 
 ### Presenter
 ????
